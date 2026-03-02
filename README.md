@@ -3,6 +3,10 @@
 Projeto de front-end criado para aplicar conceitos de HTML, CSS e JavaScript.
 O site simula uma interface voltada para um projeto social.
 
+<p align="center">
+  <img src="Capa.png" width="800">
+</p>
+
 ## Tecnologias
 - HTML5
 - CSS3
